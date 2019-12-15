@@ -1,2 +1,4 @@
 # ignore files
-jabis_venv/**/
+jabis_venv/bin/
+jabis_venv/lib/python3.6/site-packages/
+jabis_venv/share/python-wheels/
